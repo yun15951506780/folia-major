@@ -1,0 +1,4 @@
+<resources>
+    <!-- Folia 全局深色：窗口背景与系统栏用同一色值，避免浅色主题在系统栏/加载期露出白边。 -->
+    <color name="folia_window_bg">#09090b</color>
+</resources>
